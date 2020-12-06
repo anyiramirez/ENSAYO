@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JiraConfig">
+    <option name="jiraHome" value="https://anyi.atlassian.net/secure/BrowseProjects.jspa" />
+    <option name="password" value="2104ANRA" />
+    <option name="username" value="anyiramirez@unicauca.edu.co" />
+  </component>
+</project>
